@@ -36,14 +36,17 @@ Taskify is a simple and efficient task management website built using the MERN s
 
 2. Change directory to the project folder:
 
+    ```bash
     cd Taskify
 
 3. Install the project dependencies:
 
+    ```bash
     npm install
 
 4. Start the development server:
 
+    ```bash
     npm start
 
 ## Usage
@@ -60,14 +63,17 @@ If you'd like to contribute to Taskify, please follow these steps:
 
 2. Create a new branch for your feature or bug fix:
 
+    ```bash
     git checkout -b feature/your-feature
 
 3. Make your changes and commit them:
 
+    ```bash
     git commit -m "Add your message here"
 
 4. Push your changes to your forked repository:
 
+    ```bash
     git push origin feature/your-feature
 
 5. Open a Pull Request to the main repository.
